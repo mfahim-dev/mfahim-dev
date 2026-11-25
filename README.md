@@ -10,22 +10,13 @@ I'm open to freelance projects and full-time roles.
 ### Things I've built
 
 <p>
-<a href="https://sister-beauty-azure.vercel.app"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-sister-beauty-dark.svg">
-  <img alt="Sister Beauty Studio, live site: a booking site for a lash and brow studio in Rome, built with React, Node.js, Express and MongoDB." src="assets/card-sister-beauty-light.svg" width="400">
-</picture></a>
+<a href="https://sister-beauty-azure.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sister-beauty-dark.svg"><img alt="Sister Beauty Studio, live site: a booking site for a lash and brow studio in Rome, built with React, Node.js, Express and MongoDB." src="assets/card-sister-beauty-light.svg" width="400"></picture></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-whatsapp-dark.svg">
   <img alt="WhatsApp AI Assistant, private: answers a business's customers on WhatsApp in English, Urdu or Roman Urdu, captures leads and hands chats to staff. Demo on request." src="assets/card-whatsapp-light.svg" width="400">
 </picture>
-<a href="https://swapspace-beta.vercel.app"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-swapspace-dark.svg">
-  <img alt="SwapSpace, live beta: a campus platform where students swap books, notes and skills, built with React, TypeScript, Express, Prisma and PostgreSQL." src="assets/card-swapspace-light.svg" width="400">
-</picture></a>
-<a href="https://github.com/mfahim-dev/EduPulse"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-edupulse-dark.svg">
-  <img alt="EduPulse, public code: a learning management system built with PHP, MySQL, Bootstrap and Docker." src="assets/card-edupulse-light.svg" width="400">
-</picture></a>
+<a href="https://swapspace-beta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-swapspace-dark.svg"><img alt="SwapSpace, live beta: a campus platform where students swap books, notes and skills, built with React, TypeScript, Express, Prisma and PostgreSQL." src="assets/card-swapspace-light.svg" width="400"></picture></a>
+<a href="https://github.com/mfahim-dev/EduPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-edupulse-dark.svg"><img alt="EduPulse, public code: a learning management system built with PHP, MySQL, Bootstrap and Docker." src="assets/card-edupulse-light.svg" width="400"></picture></a>
 </p>
 
 ### Tools I use
