@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="616" height="316" viewBox="0 0 616 316" role="img" aria-labelledby="t">
+<title id="t">EduPulse (Public code). Learning management system where instructors run courses and grade work, and students submit and track progress. Built with PHP, MySQL, Bootstrap, Docker.</title>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+
+</style>
+<path d="M28,2 H572 Q598,2 598,28 V268 Q598,294 572,294 H36 Q24,310 -10,312 Q2,308 2,288 V28 Q2,2 28,2 Z" fill="#232A33" stroke="#3D4652" stroke-width="1.5" stroke-linejoin="round" transform="translate(12 0)"/>
+<g transform="translate(12 0)">
+  <text x="36" y="68" font-size="31" font-weight="700" letter-spacing="-.5" fill="#E6EDF3">EduPulse</text>
+  <circle cx="449.68" cy="61" r="6" fill="#3FB950"/>
+  <text x="564" y="68" text-anchor="end" font-size="19" font-weight="500" fill="#9198A1">Public code</text>
+  <text x="36" y="102" font-size="18" fill="#9198A1">PHP, MySQL, Bootstrap, Docker</text>
+  <text x="36" y="150" font-size="22" fill="#E6EDF3">Learning management system where instructors run</text>
+  <text x="36" y="182" font-size="22" fill="#E6EDF3">courses and grade work, and students submit and</text>
+  <text x="36" y="214" font-size="22" fill="#E6EDF3">track progress.</text>
+  <text x="564" y="256" text-anchor="end" font-size="18" font-weight="600" fill="#F2B544">View the code</text>
+</g>
+</svg>
